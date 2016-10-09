@@ -70,4 +70,3 @@ function format(tpl, opts) {
 }
 
 var result =  format(testDemoTpl, data);
-console.log(result);
